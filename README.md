@@ -1,4 +1,4 @@
 # Git_Gud
 Hello world!
 
-Time for a conflict!
+Time to git gud!
